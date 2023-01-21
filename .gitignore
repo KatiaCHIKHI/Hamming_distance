@@ -1,0 +1,10 @@
+*/dist
+*/genseq
+*/dist.gcc.optrpt
+*/*.opt.yaml
+*/*.dna
+*/result.txt
+*/gcc/*
+*/icc/*
+*/icx/*
+*/*.png
